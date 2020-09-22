@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyAudioTrack</string>
+    <string-array name="outAudioPaths">
+        <item>Hdmi Out</item>
+        <item>3.5 MM</item>
+        <item>USB</item>
+    </string-array>
+
+    <string-array name="inAudioPaths">
+        <item>Hdmi In</item>
+        <item>3.5 MM</item>
+        <item>USB</item>
+    </string-array>
+</resources>
